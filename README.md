@@ -2,7 +2,7 @@ git add .
 git commit -m'dnjk'
 git push origin master
 
-
+https://cdn.jsdelivr.net/gh/zc998800/cdn/image/favicon.ico
 
 推送到github或者码云上指令，
 到项目文件中打开git bash 输入
