@@ -64,7 +64,7 @@ $(document).ready(function () {
 				imgUrls.push(item.url);
 			}
 			var imgUrl = imgUrls[index];
-			$panel.css("background", "url('https://api.ixiaowai.cn/api/api.php?type=302') center center no-repeat #666");
+			$panel.css("background", "url('https://cat.dorcandy.cn/000pages/api/api-anime.php') center center no-repeat #666");
 			$panel.css("background-size", "cover");
 			sessionStorage.setItem("imgUrls",JSON.stringify(imgUrls));
 			sessionStorage.setItem("index",index);
