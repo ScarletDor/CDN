@@ -750,7 +750,6 @@
   display: inline-block;
   width: 1em;
   height: 1em;
-  vertical-align: sub;
 }
 .gt-container .gt-svg svg {
   width: 100%;
@@ -1060,7 +1059,7 @@
   }
 }
 .gt-container .gt-header-controls-tip {
-  font-size: 0.875em;
+  font-size: 1.2em;
   color: #6190e8;
   text-decoration: none;
   vertical-align: sub;
