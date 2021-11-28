@@ -7,8 +7,6 @@ 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
 
 https://cdn.jsdelivr.net/gh/zc998800/cdn/image/favicon.ico
 
-https://cdn.jsdelivr.net/gh/zc998800/cdn@master/video/top.mp4
-
 
 推送到github或者码云上指令，
 到项目文件中打开git bash 输入
