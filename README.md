@@ -5,7 +5,7 @@ git push origin master
 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
 
 
-https://cdn.jsdelivr.net/gh/zc998800/cdn/image/favicon.ico
+https://cdn.jsdelivr.net/gh/ScarletDor/cdn/image/favicon.ico
 
 
 推送到github或者码云上指令，
